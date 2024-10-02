@@ -13,17 +13,20 @@ To conduct a comprehensive analysis of Blinkit's sales performence,customer sati
 5.How have sales and average sales trended over time? 
 6.How do sales and average sales differ by geographical region or outlet location?
 
-
 #Performance Highlights:
-
 Outlet Performance: The report highlights different sales volumes based on outlet size and location type, enabling targeted business strategies for each tier..
+
 Product Type Insights:Highest sales are generated from categories like Fruits and Vegetables and Snack Foods, contributing $0.18M each.Other strong categories include Household ($0.14M) and Frozen Foods ($0.12M).
+
 Fat Content Segmentation:The dashboard shows a breakdown of sales by fat content (Low Fat vs. Regular), allowing for better insights into customer preferences and health trends.
+
 Outlet Size Contribution:Medium-sized outlets contribute the highest sales ($507.90K), while smaller outlets still hold a considerable share.
+
 Item Visibility: Tracking item visibility highlights which product types are more visible and how it impacts sales and customer purchasing decisions
 
 #Insights for Action:
 
 Improve Customer Rating: With a 3.9 average rating, there’s potential to improve customer satisfaction through enhanced services or promotions.
+
 Focus on High-Performing Product Categories: The report indicates which product categories (e.g., Fruits and Vegetables, Snacks) are performing well, enabling a focus on boosting inventory and promotions in those areas.
 
