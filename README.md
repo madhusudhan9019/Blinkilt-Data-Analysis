@@ -1,7 +1,7 @@
-# Blinkilt-Data-Analysis
+## Blinkilt-Data-Analysis
 To conduct a comprehensive analysis of Blinkit's sales performence,customer satisfaction, and inventory distribution to identify key insights and opportunitis for optimization using various KPIs and visualizations in power BI.
 
-#KPI's
+## KPI's
 
 1.Sales Performance KPIs
  
@@ -21,7 +21,7 @@ To conduct a comprehensive analysis of Blinkit's sales performence,customer sati
 
 6.How do sales and average sales differ by geographical region or outlet location?
 
-#Performance Highlights:
+# Performance Highlights:
 
 Outlet Performance: The report highlights different sales volumes based on outlet size and location type, enabling targeted business strategies for each tier..
 
@@ -33,7 +33,7 @@ Outlet Size Contribution:Medium-sized outlets contribute the highest sales ($507
 
 Item Visibility: Tracking item visibility highlights which product types are more visible and how it impacts sales and customer purchasing decisions
 
-#Insights for Action:
+# Insights for Action:
 
 Improve Customer Rating: With a 3.9 average rating, there’s potential to improve customer satisfaction through enhanced services or promotions.
 
